@@ -1,0 +1,1 @@
+print("".join([f"{x}\n" for x in input().split('-')]))
